@@ -1,4 +1,4 @@
-# Hardhat Fund Me
+# Hardhat Fund Me Front-End
 
 # Getting Started
 
